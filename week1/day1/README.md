@@ -32,7 +32,4 @@ JOIN Department d
 ON e.department_id = d.department_id
 WHERE d.name = 'IT';
 
-### 1. Select all employees
-```sql
-SELECT * FROM Employee; sql
 
